@@ -1,0 +1,6 @@
+{
+  "name": "Public Transport Tracker",
+  "description": "Real-time transport tracker with live bus tracking, ETA calculations, route planner, transit alerts, and offline map support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
